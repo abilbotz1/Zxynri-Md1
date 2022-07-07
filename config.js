@@ -22,14 +22,14 @@ global.gopay = '-'
 global.namebot = '༆𝐋𝐞𝐦𝐨𝐧𝐳𝐛𝐨𝐭𝐳-𝐦𝐝༆' // nama bot lu
 global.gc = 'https://chat.whatsapp.com/JqzZbqyCvBa6tXzLH1P3hZ' // isi gc lu 
 global.web = 'https://github.io.LemonzXzy' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.webm = 'https://instagram.com/@Cybord'
+global.webm = 'https://instagram.com/anton_krinj'
 global.price1 = '𝐍𝐈𝐇 𝐁𝐀𝐍𝐆 𝐋𝐈𝐒𝐓 𝐒𝐄𝐖𝐀𝐍𝐘𝐀\n\n》PERMANEN Rp 10.000\nMAKSIMAL 2 GRUP\n》PERMANEN  Rp 20.000\nMAKSIMAL 6 GRUP \n》1 BULAN Rp 5.000\nMAKSIMAL 1 GRUP'
 
 //=======『 Tampilan Dan Lainnya 』============//
-global.fotonya1 = 'https://telegra.ph/file/64e014b1420cf0dde859a.jpg' //ganti jadi foto bot mu
-global.fotonya2 = 'https://telegra.ph/file/64e014b1420cf0dde859a.jpg' //ini juga ganti
-global.fotonya3 = 'https://telegra.ph/file/64e014b1420cf0dde859a.jpg'
-global.donasi = 'https://telegra.ph/file/64e014b1420cf0dde859a.jpg' //ganti pakai poto apa aja 
+global.fotonya1 = 'https://telegra.ph/file/ac1288af347009b5c3f10.jpg' //ganti jadi foto bot mu
+global.fotonya2 = 'https://telegra.ph/file/ac1288af347009b5c3f10.jpg' //ini juga ganti
+global.fotonya3 = 'https://telegra.ph/file/ac1288af347009b5c3f10.jpg'
+global.donasi = 'https://telegra.ph/file/ac1288af347009b5c3f10.jpg' //ganti pakai poto apa aja 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
 global.wm = '© ❋ཻུ۪۪⸙LemonzBotz-MD⳹ ❋ཻུ۪۪'
